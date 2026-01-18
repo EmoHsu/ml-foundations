@@ -1,9 +1,8 @@
-ml-foundations/
-  00_setup/
-  01_python_numpy_pandas/
-  02_linear_algebra_minimum/
-  03_probability_minimum/
-  04_ml_algorithms/
-  05_model_evaluation/
-  notes/
-  README.md
+# ml-foundations/
+  ## 00_setup/
+  ## 01_python_numpy_pandas/
+  ## 02_linear_algebra_minimum/
+  ## 03_probability_minimum/
+  ## 04_ml_algorithms/
+  ## 05_model_evaluation/
+  ## notes/
