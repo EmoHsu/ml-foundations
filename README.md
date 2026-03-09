@@ -1,6 +1,6 @@
 # ml-foundations/
   ## 00_setup/
-  ## 01_python_numpy_pandas/
+  ## 01_Linux_VMware_ubuntu/
   ## 02_python_numpy_pandas/
   ## 03_linear_algebra_minimum/
   ## 04_probability_minimum/
